@@ -1,0 +1,28 @@
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse; 
+}
+th, td {
+	padding: 5px;
+}
+	
+body {
+	background-color: Cornsilk
+}
+h1, h3 {
+	color: Darkgreen
+}
+tr td:nth-child(3) {
+	text-align: center
+}
+.tableColor {
+	background-color: Burlywood
+}
+
+.borderless {
+	border: none;
+}
+.fancyBorder {
+	border: dashed;
+	font-family: Verdana;
+} 
